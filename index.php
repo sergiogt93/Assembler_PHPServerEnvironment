@@ -17,10 +17,10 @@
     <div class="boxLogin">
         <form action="validate.php" method="POST">
             <label>
-                User: <input type="text" name="username">
+                User <input type="text" name="username">
             </label>
             <label>
-                Password:<input type="text" name="password">
+                Password <input type="text" name="password">
             </label>
             <label>
                 <input type="submit" value="Send Data">
